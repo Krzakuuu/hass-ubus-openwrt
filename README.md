@@ -54,10 +54,10 @@ Enable and Start Script
 
 # Helpfull Informations
 
-* Commands  
- - logread  
- - ubus -v list 
- - ubus call 
- - ubus list 
+* Commands:
+  * logread  
+  * ubus -v list 
+  * ubus call 
+  * ubus list 
 
 ### <img src="https://github.com/Krzakuuu/hass-ubus-openwrt/blob/main/Hassio.png?raw=true"> 
