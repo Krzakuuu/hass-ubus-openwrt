@@ -32,4 +32,4 @@ chmod +x /etc/init.d/hass-ubus-openwrt
  * ubus call 
  * ubus list 
 
-### <img src="https://raw.githubusercontent.com/Krzakuuu/hass-ubus-openwrt/main/main.png"> 
+### <img src="https://github.com/Krzakuuu/hass-ubus-openwrt/blob/main/Hassio.png?raw=true"> 
