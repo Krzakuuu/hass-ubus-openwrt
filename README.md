@@ -2,6 +2,8 @@
 
 Easy Lua Script For Home Assistant Integration With Ubus OpenWRT
 
+### <img src="https://github.com/Krzakuuu/hass-ubus-openwrt/blob/main/Hassio.png?raw=true"> 
+
 # Installation
 
 ```
@@ -14,7 +16,7 @@ wget https://raw.githubusercontent.com/Krzakuuu/hass-ubus-openwrt/main/main.lua
 
 ```
 
-# Run on Startup
+Run on Startup
 
 ```
 nano /etc/init.d/hass-ubus-openwrt 
@@ -60,4 +62,6 @@ Enable and Start Script
   * ubus call 
   * ubus list 
 
-### <img src="https://github.com/Krzakuuu/hass-ubus-openwrt/blob/main/Hassio.png?raw=true"> 
+* Links
+  * https://openwrt.org/docs/techref/ubus
+  * https://eko.one.pl/?p=easyconfig
