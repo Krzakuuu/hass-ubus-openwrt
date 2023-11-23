@@ -13,7 +13,7 @@ mkdir /root/lua
 cd /root/lua
 wget https://raw.githubusercontent.com/craigmj/json4lua/master/json/json.lua
 wget https://raw.githubusercontent.com/Krzakuuu/hass-ubus-openwrt/main/main.lua
-
+(edit this file)
 ```
 
 Run on Startup
